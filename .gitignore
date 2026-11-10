@@ -1,0 +1,20 @@
+# Flutter i Dart generirane datoteke
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE i operacijski sustav
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Privatni podaci (ako ih ikad dodaš)
+*.keystore
+*.jks
+key.properties
